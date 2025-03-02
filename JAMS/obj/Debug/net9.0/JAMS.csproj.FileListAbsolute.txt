@@ -1,0 +1,14 @@
+/mnt/Henry/Documents/OtherProgramming/JAMS/JAMS/bin/Debug/net9.0/JAMS
+/mnt/Henry/Documents/OtherProgramming/JAMS/JAMS/bin/Debug/net9.0/JAMS.dll
+/mnt/Henry/Documents/OtherProgramming/JAMS/JAMS/bin/Debug/net9.0/JAMS.pdb
+/mnt/Henry/Documents/OtherProgramming/JAMS/JAMS/obj/Debug/net9.0/JAMS.csproj.AssemblyReference.cache
+/mnt/Henry/Documents/OtherProgramming/JAMS/JAMS/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache
+/mnt/Henry/Documents/OtherProgramming/JAMS/JAMS/obj/Debug/net9.0/Avalonia/resources
+/mnt/Henry/Documents/OtherProgramming/JAMS/JAMS/obj/Debug/net9.0/JAMS.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/Henry/Documents/OtherProgramming/JAMS/JAMS/obj/Debug/net9.0/JAMS.AssemblyInfoInputs.cache
+/mnt/Henry/Documents/OtherProgramming/JAMS/JAMS/obj/Debug/net9.0/JAMS.AssemblyInfo.cs
+/mnt/Henry/Documents/OtherProgramming/JAMS/JAMS/obj/Debug/net9.0/JAMS.csproj.CoreCompileInputs.cache
+/mnt/Henry/Documents/OtherProgramming/JAMS/JAMS/obj/Debug/net9.0/JAMS.sourcelink.json
+/mnt/Henry/Documents/OtherProgramming/JAMS/JAMS/obj/Debug/net9.0/Avalonia/JAMS.dll
+/mnt/Henry/Documents/OtherProgramming/JAMS/JAMS/obj/Debug/net9.0/Avalonia/JAMS.pdb
+/mnt/Henry/Documents/OtherProgramming/JAMS/JAMS/obj/Debug/net9.0/refint/Avalonia/JAMS.dll

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="14.08944mm"
+   height="10.082999mm"
+   viewBox="0 0 14.08944 10.082999"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   sodipodi:docname="LoopIcon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.77949635"
+     inkscape:cx="-87.235816"
+     inkscape:cy="-140.47532"
+     inkscape:window-width="1982"
+     inkscape:window-height="1083"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.60000002"
+       markerHeight="0.60000002"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-128.05834,-185.7375)">
+    <path
+       id="rect10"
+       style="fill:none;stroke:#97a2aa;stroke-width:0.90114;stroke-linecap:round;marker-end:url(#Triangle)"
+       d="m 133.24214,194.15644 h -2.47479 c -1.25119,0 -2.25844,-1.00728 -2.25844,-2.25841 v -3.45152 c 0,-1.25119 1.00725,-2.25844 2.25844,-2.25844 v 0 h 8.6714 c 1.25119,0 2.25846,1.00725 2.25846,2.25844 v 3.45152 c 0,1.25113 -1.00727,2.25841 -2.25846,2.25841 h -3.08596"
+       sodipodi:nodetypes="csssscssssc" />
+  </g>
+</svg>
